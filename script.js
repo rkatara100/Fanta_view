@@ -54,11 +54,11 @@ var tl2 = gsap.timeline({
 //       top: "110%"
 // }, 'ca')
 
-tl2.from("#cocacola", {
-      rotate: "10deg",
-      left: "100%",
-      top: "110%",
-}, 'ca')
+// tl2.from("#cocacola", {
+//       rotate: "10deg",
+//       left: "100%",
+//       top: "110%",
+// }, 'ca')
 
 // tl2.from(".lemon2", {
 //       rotate: "10deg",
